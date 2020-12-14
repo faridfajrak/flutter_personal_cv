@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499675308987",
+    "firebase_url": "https://personal-cv-91179.firebaseio.com",
+    "project_id": "personal-cv-91179",
+    "storage_bucket": "personal-cv-91179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499675308987:android:f6837699a13d2542d21a9e",
+        "android_client_info": {
+          "package_name": "f.fajrak.personalcv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499675308987-g4o7kp0cuno0t4coep04v9jgjqnkmcsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzfC-kbWSd5h6N1ATOXWUB2d7k_0Qf2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499675308987-g4o7kp0cuno0t4coep04v9jgjqnkmcsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
